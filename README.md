@@ -6,7 +6,7 @@ After obtaining the rules, I have put them in a data frame, so the results can b
 
 Lift is used as a metric to compare the strength of different rules. The results are sorted based on lift to make finding the strongest rules easier.
 
-Also, the model is designed to look for rules with two items. Of course, the model can be used to find rules for an many as items that is needed.
+Also, the model is designed to look for rules with two items. Of course, the model can be used to find rules for as many items that is needed.
 
 At the end, the result is saved as a csv file.
 
